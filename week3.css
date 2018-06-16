@@ -1,0 +1,41 @@
+.form-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+.box {
+    border: 2px solid black;
+    padding: 2rem;
+    text-align: left;
+    
+
+    
+}
+
+.btn {
+    text-align: center;
+    flex-direction: column;
+    width: 14rem;
+    height: 2rem;
+    background-color: green;
+    margin-top: 0.01rem;
+   
+   
+}
+
+.new {
+    text-align: center;
+    flex-direction: column;
+}
+
